@@ -1,0 +1,216 @@
+code,name,credit
+KIM 101E,General Chemistry I,3
+KIM 101EL,General Chemistry I Laboratory,1
+BIL 101E,Intro. to Computer and Inf.Systems,1.5
+MAT 111,Mathematics I,5
+FIZ 101E,Physics I,3
+FIZ 101EL,Physics I Laboratory,1
+MAT 175,Abstract Mathematics,3
+MAT 141,Linear Algebra I,3
+FIZ 106,Physics II,3
+FIZ 106L,Physics II Laboratory,1
+MAT 112,Mathematics II,5
+MAT 142,Linear Algebra II,3
+BIL 104E,Introduction to Programming in C,3
+MUH 211,Discrete Mathematics,3
+MAT 221,Probability Theory,3
+TUR 101,Turkish I,2
+DNK 201E,Dynamics,3
+MAT 322E,Algebra,4
+MAT 213,Mathematics III,4
+MAT 232,Differential Equations,4
+TUR 102,Turkish II,2
+MUH 212,Data Structures,3
+ING 201,English III,3
+MAT 242,Statistics,4
+MAT 214,Mathematics IV,4
+MAT 331,Partial Differential Equations,4
+MUH 321,Numerical Methods,4
+MUH 311,Continuum Mechanics I,3
+MAT 341E,Complex Analysis,4
+MAT 342E,Differential Geometry,3
+MAT 332,Real Analysis I,4
+MUH 312,Continuum Mechanics II,3
+MAT 355,Topology,3
+ATA 101,History of Turkish Revolution I,2
+ATA 102,History of Turkish Revolution II,2
+MAT 492,Graduation Project,3
+EKO 201,Economics,3
+ING 101,English I,3
+ING 102,English II,3
+BEB 120,Sports and Sciences,3
+BEB 121,Sports and Technology,3
+HUK 211,Social Security Law,3
+HUK 212,Syndicate and Collective Bargaining Law,3
+HUK 213,Occupational Safety and Health Law,3
+HUK 214,Protection of Technological Innovations,3
+HUK 215,Contracts Law,3
+HUK 216,Telecommunications Law,3
+HUK 217,R&D Law,3
+HUK 218,Commercial Law,3
+ING 103CO,Professional Communication for Engineers,3
+ING 103ES,Intercultural Citizenship in International Education,3
+ING 103SC,Science Communication: Theory and Practice for Engineers,3
+ISL 465E,Introduction to Entrepreneurship and Innovation,3
+ISL 478E,Entrepreneurship,3
+ITB 020,Formations of Modernity,3
+ITB 020E,Formations of Modernity,3
+ITB 037,"Knowledge, Language and Logic",3
+ITB 037E,"Knowledge, Language and Logic",3
+ITB 087,Media and Society,3
+ITB 087E,Media and Society,3
+ITB 094,International Relations&Globalization,3
+ITB 094E,International Relations&Globalization,3
+ITB 095,"Technology, Policy and Law",3
+ITB 095E,"Technology, Policy and Law",3
+ITB 143,Durrel and Said : Orientalism Practiced and Theorized,3
+ITB 143E,Durell and Said: Orientalism Practice and Theory,3
+ITB 151,Human Resource Management,3
+ITB 151E,Human Resources and Management,3
+ITB 171,"Science, Technology & Society",3
+ITB 171E,"Science,Technology and Society",3
+ITB 179,"Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen",3
+ITB 179E,"Literatures of Intimate Separacies: Vizyenos,Seyfettin,Armen",3
+ITB 201,Introduction to Humanities and Social Sciences,3
+ITB 201E,Introduction to Humanities & Social Sciences,3
+ITB 202,World History,3
+ITB 202E,World History,3
+ITB 203,Sociology,3
+ITB 203E,Sociology,3
+ITB 204,Political Science,3
+ITB 204E,Political Science,3
+ITB 205,Philosophy,3
+ITB 205E,Philosophy,3
+ITB 206,Issues in World Politics,3
+ITB 206E,Issues in World Politics,3
+ITB 207,Ottoman History,3
+ITB 207E,Ottoman History,3
+ITB 208,Formations of Modern Turkey,3
+ITB 208E,Formations of Modern Turkey,3
+ITB 209,Turkey in World Affairs,3
+ITB 209E,Turkey in World Affairs,3
+ITB 211E,"Istanbul:History,Art and Society",3
+ITB 212E,"Art,Culture and Society",3
+ITB 213,Toplics in Literature and Society,3
+ITB 213E,Topics in Literature and Society,3
+ITB 215,Topics in History and Society,3
+ITB 215E,Topics in History and Society,3
+ITB 216,Economy and Society,3
+ITB 216E,Economy and Society,3
+ITB 217,Engineering Ethics,3
+ITB 217E,Engineering Ethics,3
+ITB 218,History of Science and Technology,3
+ITB 218E,History of Science and Technology,3
+ITB 219,Ethics,3
+ITB 219E,Ethics,3
+ITB 220,Psychology,3
+ITB 220E,Psychology,3
+ITB 221,Anatolian Archaeology,3
+ITB 222,City and Society,3
+ITB 222E,City and Society,3
+ITB 224,Environment and Society,3
+ITB 224E,Environment and Society,3
+ITB 226E,Philosophy of Art,3
+ITB 227,Siyaset Teorisi,3
+ITB 227E,Political Theory,3
+ITB 228,Gender Studies,3
+ITB 228E,Gender Studies,3
+ITB 230,Disaster Awareness,3
+ITB 231,Volunteering Studies,3
+ITB 231E,Volunteering Studies,3
+ITB 233,Anthropology,3
+ITB 234,The Rise of Civilizations,3
+ING 101,English I,3
+ING 102,English II,3
+ING 102,English II,3
+ING 103A,Creative Writing,3
+ING 103AC,Urban Ecology,3
+ING 103AD,Advanced English for Engineers,3
+ING 103B,Business English,3
+ING 103C,Great Moments in Science,3
+ING 103G,Business Communications,3
+ING 103H,Public Presentations,3
+ING 103I,Short Stories,3
+ING 103L,Mythology,3
+ING 103N,Film Studies,3
+ING 103O,Psychology,3
+ING 103P,Poetry,3
+BLG 361,Database Management Systems,3
+BLG 361E,Database Management Systems,3
+ECN 307E,Game Theory,3
+END 317E,Database Management and Big Data,3
+END 337,Introduction to Operations Research,3
+END 337E,Introduction to Operations Research,3
+FIZ 292E,Computer Aided Design and Modeling,2
+FIZ 425E,Computational Analysis of Physical Systems,3
+FIZ 434,Microprocessors,3
+FIZ 434E,Microprocessors,3
+FIZ 437,Statistical Learning from Data: Application in Physics,3
+FIZ 437E,Statistical Learning from Data: Application in Physics,3
+FIZ 449,Physics in Our Daily Life,3
+FIZ 449E,Physics in Our Daily Life,3
+MAT 310,Bridge,3
+MAT 335,Programming Algorithms,3
+MAT 335E,Programming Algorithms,3
+MAT 337,Web Programming,3
+MAT 337E,Web Programming,3
+MAT 339E,Theory of Matrix,3
+MAT 343E,Time Series Analysis,3
+MAT 357,Linear Algebra III,3
+MAT 357E,Linear Algebra III,3
+MAT 365,Calculus of Variations,3
+MAT 365E,Calculus of Variations,3
+MAT 366,Special Functions,3
+MAT 366E,Special Functions,3
+MAT 368,Mathematical Modeling,3
+MAT 388,Data Analysis in Fund.Sciences,3
+MAT 388E,Data Analysis in Fund.Sciences,3
+MAT 391E,Advanced Topics in ODE,3
+MAT 392E,Advanced Topics in PDE,3
+MAT 413E,Computer Aided Symbolic Calculus,3
+MAT 417E,Theory of Surfaces,3
+MAT 418E,Optimization,3
+MAT 420E,Financial Mathematics,3
+MAT 423E,Numerical Solutions of ODE,3
+MAT 425E,Stochastic ODE,3
+MAT 427E,Algebra II,3
+MAT 428,Functional Analysis,3
+MAT 428E,Functional Analysis,3
+MAT 437,Real Analysis II,3
+MAT 437E,Real Analysis II,3
+MAT 438,History of Mathematics,3
+MAT 438E,History of Mathematics,3
+MAT 447,Integral Equations,3
+MAT 447E,Integral Equations,3
+MAT 448,Number Theory,3
+MAT 448E,Number Theory,3
+MAT 449E,Lorentzian Geometry,3
+MAT 449E,Lorentzian Geometry,3
+MAT 457E,Conformal Mapping,3
+MAT 458E,Riemannian Geometry,3
+MAT 467E,Boundary Value Problems,3
+MAT 468E,Nonlinear Waves,3
+MAT 478E,Computer Aided Symbolic Calculus II,3
+MAT 485E,Graph Theory,3
+MAT 485E,Graph Theory,3
+MAT 487E,Lie Group Analysis of DE,3
+MAT 488E,Numerical Solutions of PDE,3
+MAT 495,Basic Algebraic Topology,3
+MAT 495E,Basic Algebraic Topology,3
+MAT 497,Tensor Analysis,3
+MAT 497E,Tensor Analysis,3
+MAT 498E,Basic Algebraic Geometry,3
+MUH 323,Asymptotic Methods,3
+MUH 323E,Asymptotic Methods,3
+MUH 324,Advanced Numerical Methods,3
+MUH 324E,Advanced Numerical Methods,3
+MUH 334,Computing Algorithms,3
+MUH 334E,Data Processing Algorithms,3
+MUH 423,Fluid Mechanics,3
+MUH 423E,Fluid Mechanics,3
+MUH 428,Biomechanic,3
+MUH 428E,Biomechanic,3
+MUH 443,Computer Graphics,3
+MUH 443E,Computer Graphics,3
+MUH 453,Optimal Control Theory,3
+MUH 453E,Optimal Control Theory,3
